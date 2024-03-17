@@ -4,7 +4,7 @@
 * [Projeto](#Projeto)
 * [Equipe](#Equipe)
 * [Objetivo do Projeto](#Objetivo-do-projeto)
-* [Tecnologia Utilizada](#Tecnologia-Uitilizada)
+* [Tecnologia Utilizada](#Tecnologia-Utilizada)
 
 # Projeto
 
