@@ -18,8 +18,8 @@ Desenvolvimento de uma tabela com horários escolares ordenados e classificados 
 | Team Member   |   Ana Clara              |    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/nahclarasilvas)        |
 |  Team Member  |   Isabela Lopes                 | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/isaprina)        |
 |  Team Member  |   Pedro Henrique                 | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/pedromartins29)   |
-|  Team Member  |   Rafael     |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rafaelael)          |
-|  Team Member  |   Reinaldo   |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rei1Mariano)          |
+|  Team Member  |   Rafael César    |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rafaelael)          |
+|  Team Member  |   Reinaldo Mariano  |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rei1Mariano)          |
 
 # Objetivo do Projeto
 
